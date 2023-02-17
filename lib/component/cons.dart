@@ -1,0 +1,1 @@
+// https://newsapi.org/v2/everything?q=amman&apikey=971b95859440402ba82b82759ad383cc
